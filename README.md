@@ -1,5 +1,6 @@
 # sql_jenson-s-Analysis
 Jensen's Data Analysis Project
+
 Project Overview:
 This project focuses on deriving insights into customer behavior, staff performance, inventory management, and store operations at Jensen's, a retail chain, using an SQL dataset. By leveraging various SQL techniques such as Windows Functions, subqueries, Common Table Expressions (CTEs), joins, and EXISTS, we explore critical aspects of the business. The insights gained help optimize inventory, improve staff performance, and enhance customer experience.
 
